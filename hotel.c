@@ -1,11 +1,3 @@
-/*Hélio Masaru Sueta, Lorena Gaiotti, 
-Morgana Rodrigues Zanetti, Guilherme Schnekenberg Teixeira, 
-Gustavo Nascimento Zanatta- Ativ09
-
-Hélio Masaru Sueta, Lorena Gaiotti, 
-Morgana Rodrigues Zanetti, Guilherme Schnekenberg Teixeira, 
-Gustavo Nascimento Zanatta - 23/06/2023
-
 O programa simula um sistema de hotel, em que são representadas a alocação 
 dos apartamentos e a ocupação dos quartos do hotel a partir do mapa. As funções 
 permitem ao usuário fazer reserva e check-in de um apartamento, e também o 
